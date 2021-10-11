@@ -1,3 +1,2 @@
-# Flutter Speech to Text App Tutorial | Voice Recognition
+# Voice_Typer| Voice Recognition
 
-[YouTube Tutorial](https://youtu.be/wDWoD1AaLu8)
